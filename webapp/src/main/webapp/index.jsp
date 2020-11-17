@@ -8,6 +8,3 @@
 <h1> This is a final call for Ansible on Docker .........!!  </h>
 
 <h1> Great JOB...!!! </h1>
-
-<h1> Webhook implemented ..!!! </h1>
-<h1> neline added..  </h1> 
